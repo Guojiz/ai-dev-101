@@ -1,5 +1,7 @@
 # 第一节班会课演讲 · AI 开发入门
 
+> 作者：**郭己正**（[@Guojiz](https://github.com/Guojiz)）
+
 一节 13 页的班会课课件：**不止复制粘贴，用 AI 开发**。
 
 - 📥 下载课件：[第一节班会课演讲.pptx](./第一节班会课演讲.pptx)（每页都附有演讲备注）
@@ -19,4 +21,4 @@
 
 ## 许可
 
-本课件以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 协议开源，转载或改编请注明出处。
+本课件以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 协议开源，转载或改编请注明出处：郭己正（@Guojiz）。
